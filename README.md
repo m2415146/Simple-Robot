@@ -50,7 +50,17 @@ At the moment this idea seems less interesting to me, since it is more an exampl
 I could hide the rotational elements with an amorphous body - from the outside it might look like muscle movement, so it would look like a real snake. 
 if I figure out how to do this, it can be implemented using a special coating job. it comes to my mind to create a coating from a combination of reinforcement made of artificial fabric with wide cells, into which a 3D printing matrix will be imprinted.  
 
-So far I understand a little how to combine these 2 materials, but if you need to make the resulting material elastic enough, a problem will arise. Perhaps I can solve it using a special printed matrix structure or the use of special materials - for example, TPU. At the moment I have no experience using this material. The task may probably turn out to be more labor-intensive than it looks now and I need a plan B
+So far I understand a little how to combine these 2 materials, but if you need to make the resulting material elastic enough, a problem will arise. Perhaps I can solve it using a special printed matrix structure or the use of special materials - for example, TPU. At the moment I have no experience using this material. The task may probably turn out to be more labor-intensive than it looks now and I need a plan B  
+
+**crayfish**  
+
+I saw a snowplow collecting snow and filmed it on video, as I was interested in the mechanism of the paws with which the machine captured snow. It reminds me of the movement of a huge arthropod. if we add to this the principle of "walking cylinders", which I described above, then this can be used as a mechanism for moving my robot  
+
+
+
+https://github.com/user-attachments/assets/27f48e16-dec9-42ac-981b-3746b3b7e2ec
+
+
 
 
 
