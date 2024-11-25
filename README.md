@@ -23,9 +23,27 @@ Snake-like
 
 The movement of our robot will be based on rotation, so I need to choose ways of moving that can be implemented using rotational elements  
 
+**pull-up links**  
+
+the problem of increasing support for the segment opposite to movement can be solved with the help of automatically extending legs underneath it  
+
 ![photo_5343948964707296525_y](https://github.com/user-attachments/assets/cac48a98-8df5-43d1-8eba-9d7ed847093d)  
 
+**walking cylinders/ rocker arm**  
+
+vertical rotational movement of the cylinders, which can be combined with forward movement due to increased amplitude. I imagine the implementation of this, by using a motor closer to the opposite to the amplitude link itself, in order to use the lever principle  
+
+
+
 ![photo_5343948964707296526_y](https://github.com/user-attachments/assets/806018d6-7e51-4fe7-ac18-896f731763a0)  
+
+**hidden wheels**  
+
+parts of the segments will be “hidden wheels”, which will be hidden from external eyes by covering the body. the movement of each of them will be directed diagonally forward, but in the opposite direction.  with the help of translational rotation of these links, it will seem as if a real snake is moving. 
+
+At the moment this idea seems less interesting to me, since it is more an example of a trick than the implementation of an interesting type of movement. If I fail to implement other methods in the allotted time and the teacher allows me, I will use it to meet the deadline.
+
+
 
 ![photo_5343948964707296527_y](https://github.com/user-attachments/assets/d43e91ad-8f90-4154-91e6-bb21f24f9e01)  
 
