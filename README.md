@@ -17,7 +17,13 @@ Choosing anything type of moving except wheels and tank tracks
 
 Snake-like  
 
-## Inspiring ideas   
+## Inspiring ideas  
+
+
+
+https://github.com/user-attachments/assets/3e3d7e82-127a-4018-ae43-d5168c0444e2
+
+
 
 ## My ideas  
 
